@@ -18,6 +18,10 @@ Task 3: Listing all categories, printing the number of products associated to th
 
 2. There is not front end for the application, I have tested the API End Points through POSTMAN.
     
-    a. Create Category Collection: ![Create Category](https://github.com/Namrta13/Appiness/blob/master/Create%20Category.png)
-    b. Create Product For Category: ![Create Product](https://github.com/Namrta13/Appiness/blob/master/Create%20Product%20For%20Category.png)
-    
+     a. Create Category Collection: ![Create Category](https://github.com/Namrta13/Appiness/blob/master/Create%20Category.png)
+     
+     b. Create Product For Category: ![Create Product](https://github.com/Namrta13/Appiness/blob/master/Create%20Product%20For%20Category.png)
+     
+     c. Get Categories With Count Of Products Corresponding (FINAL OUTPUT): ![Get Count](https://github.com/Namrta13/Appiness/blob/master/Get%20All%20Categories%20and%20Product%20Count.png)
+     
+
