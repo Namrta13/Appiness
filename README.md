@@ -18,4 +18,4 @@ Task 3: Listing all categories, printing the number of products associated to th
 
 3. There is not front end for the application, I have tested the API End Points through POSTMAN.
     
-    a. Create Category Collection: 
+    a. Create Category Collection: ![Create Category](https://github.com/Namrta13/Appiness/blob/master/Create%20Category.png)
