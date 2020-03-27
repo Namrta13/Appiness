@@ -13,9 +13,11 @@ Task 3: Listing all categories, printing the number of products associated to th
 ## Workflow
 1. On running the command `npm run start`, it executes the following script from package.json file:
 "start": "node src/index.js"
+ 
+![Work Flow Diagram](https://github.com/Namrta13/Appiness/blob/master/Project-Flow.png)
 
-2. ![Work Flow Diagram](https://github.com/Namrta13/Appiness/blob/master/Project-Flow.png)
-
-3. There is not front end for the application, I have tested the API End Points through POSTMAN.
+2. There is not front end for the application, I have tested the API End Points through POSTMAN.
     
     a. Create Category Collection: ![Create Category](https://github.com/Namrta13/Appiness/blob/master/Create%20Category.png)
+    b. Create Product For Category: ![Create Product](https://github.com/Namrta13/Appiness/blob/master/Create%20Product%20For%20Category.png)
+    
